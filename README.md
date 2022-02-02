@@ -49,6 +49,8 @@ NewsFusion is a news app which can be used to grab daily news bites. This websit
 
 
 <hr/>
+
+
 ## Installation
 
 
